@@ -13,6 +13,6 @@ First time for ESP32, Check LED Blinking
 [YouTube Demo](https://youtube.com/shorts/CGR0wBzF9GE?si=XO-JN6vKWg126i8b)
 
 ## File list
-- main.ino : Arduino Source Code
+- LedBlink.ino : Arduino Source Code
 - LED_Binking_Example_Screen1, LED_Binking_Example_Screen2 : Execute Screenshot
 - LED_Binking_Example_video : Example Video
