@@ -7,7 +7,10 @@ First time for ESP32, Check LED Blinking
 -Demonstrates basic digital input/output control on ESP32.
 
 ## Project Picture
-(LED_Binking_Example_Screen1. LED_Binking_Example_Screen2)
+![LED_Binking_Example_Screen1](https://github.com/user-attachments/assets/7f1428ea-19c2-47c1-b1bb-c2a12af12db2)
+![LED_Binking_Example_Screen2](https://github.com/user-attachments/assets/a71d8199-dfd8-497d-9780-a3a0f81e89d3)
+
+
 
 ## Example Video
 [YouTube Demo](https://youtube.com/shorts/CGR0wBzF9GE?si=XO-JN6vKWg126i8b)
